@@ -1,0 +1,19 @@
+# 作業題目有著作權
+DM_Homework_1*.pdf
+
+# 課程提供的原始資料庫
+*.db
+
+# 由 scripts/ 產生，可重建
+arff/
+
+# 沒改名的暫存截圖，報告沒用到
+screenshots/螢幕擷取畫面*
+
+# Python 快取
+__pycache__/
+
+# 系統檔
+.DS_Store
+Thumbs.db
+desktop.ini
